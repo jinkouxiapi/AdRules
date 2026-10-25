@@ -65,10 +65,6 @@ AdRules Ad Domains List : 77322
 
 [![Star History Chart](https://api.star-history.com/svg?repos=cats-team/adrules&type=Timeline)](https://star-history.com/#cats-team/adrules&Timeline)
 
-## Chat
-
-**✈️https://t.me/AdRules_Offical_Chat**  
-**⭕https://github.com/Cats-Team/AdRules/issues**
 
 > Do What The Fuck You Want To
 
